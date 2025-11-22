@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Mark Ndarama
 
-<!--
-**ndarama/ndarama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Graphic Designer with 13+ years of experience in visual communication, branding, layout design, and digital media. I enjoy transforming concepts into powerful visuals and bringing ideas to life across print and digital formats.
 
-Here are some ideas to get you started:
+## 🔧 Skills & Technologies
+- Adobe Photoshop, Illustrator, InDesign  
+- Branding & Identity Design  
+- Layout & Print Design  
+- Digital Illustration  
+- Creative Concept Development  
+- Client Collaboration & Communication  
+- UAV/Drone Photography
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects & Work
+- **Branding Case Studies** – Logos, identity systems, and brand guidelines  
+- **Layout Design Portfolio** – Posters, magazines, covers, and promotional materials  
+- **Digital Media Samples** – Social media graphics and advertising visuals  
+- **Drone Media Samples** – Aerial photography and visual assets  
+
+*(Upload any design images, even simple ones, in labeled project folders.)*
+
+## 🌐 Connect with Me
+- **LinkedIn:** https://www.linkedin.com/in/ndarama-mark  
+- **Email:** ndaramart@gmail.com  
