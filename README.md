@@ -38,6 +38,6 @@ Branding, publications, digital artwork, and book cover design for organizations
 
 ## 📫 Connect With Me
 
-- LinkedIn: **https://www.linkedin.com/in/ndarama-mark**  
+- LinkedIn: **https://www.linkedin.com/in/ndarama**  
 - Email: **ndaramart@gmail.com**
 
