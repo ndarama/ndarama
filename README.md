@@ -17,8 +17,6 @@ I’m a Graphic Designer with 13+ years of experience in visual communication, b
 - **Digital Media Samples** – Social media graphics and advertising visuals  
 - **Drone Media Samples** – Aerial photography and visual assets  
 
-*(Upload any design images, even simple ones, in labeled project folders.)*
-
 ## 🌐 Connect with Me
 - **LinkedIn:** https://www.linkedin.com/in/ndarama-mark  
 - **Email:** ndaramart@gmail.com  
